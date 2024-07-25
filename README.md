@@ -1,2 +1,2 @@
 # SIT315
-Concurrent and Disributed Programming
+Concurrent and Distributed Programming
